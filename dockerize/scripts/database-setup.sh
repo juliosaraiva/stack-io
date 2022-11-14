@@ -1,0 +1,1 @@
+if [[ "$DATABASE_URL" ]] && echo $DATABASE_URL > server.conf

@@ -1,0 +1,6 @@
+kind: Namespace
+apiVersion: v1
+metadata:
+  name: stack-io
+  labels:
+    name: stack-io
